@@ -1,11 +1,6 @@
 # Binary to Decimal Converter
 
-Project online [here](https://binary2decimalconvert.netlify.app/)
-
-|                                                                                                                                                                        |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img width="1552" alt="Screen Shot 2020-05-01 at 17 38 54" src="https://user-images.githubusercontent.com/30422190/80839968-af613d80-8bd2-11ea-837f-e544e1c0b2c5.png"> |
-| ![12](https://user-images.githubusercontent.com/30422190/80840403-9e64fc00-8bd3-11ea-9bfd-ad9ed78db41d.gif)                                                            |
+Project online [here](https://binary2decimalconvert.netlify.app/)|
 
 <img width="1552" alt="Screen Shot 2020-05-01 at 17 38 54" src="https://user-images.githubusercontent.com/30422190/80839968-af613d80-8bd2-11ea-837f-e544e1c0b2c5.png">
 
