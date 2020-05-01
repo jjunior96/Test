@@ -1,5 +1,7 @@
 # Binary to Decimal Converter
 
+Project online [here](https://binary2decimalconvert.netlify.app/)
+
 Idea from [here](https://github.com/florinpop17/app-ideas)
 
 **Tier:** 1-Beginner
